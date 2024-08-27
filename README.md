@@ -65,8 +65,3 @@ The project integrates various tools and techniques to develop a dynamic and int
 ## Conclusion
 
 This dashboard provides an in-depth analysis of the 2024 Olympics, coupled with historical insights. The integration of Python and interactive visuals makes this project both innovative and practical, offering valuable tools for analysts, organizers, and the general public.
-
-
-
-## Contact
-For any questions or further information, please contact    [Annapurna S S]()
